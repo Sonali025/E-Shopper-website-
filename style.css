@@ -1,0 +1,10 @@
+.logo{
+    background-color: rgb(250, 205, 178);
+}
+.aside-list li{
+    list-style-type: none !important;
+}
+.foot{
+    background-color: rgb(66, 133, 122);
+    height: 70px;
+}
